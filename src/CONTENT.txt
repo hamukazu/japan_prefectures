@@ -1,0 +1,3 @@
+
+a.txt : 統計局の都道府県別人口データ（Excel）から都道府県名だけを抜き出したもの
+generator.ipynb : a.txtをもとにデータを作成する作業の記録（Jupyter Notebook）
